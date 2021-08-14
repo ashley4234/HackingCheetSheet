@@ -18,3 +18,6 @@ local proxy tool
 
 Commnd
 [nkf]()
+  文字コードの変換
+  ログ解析の際にURLのデコードなどで使う
+  ex)nkf --url-input test.txt > output.txt
