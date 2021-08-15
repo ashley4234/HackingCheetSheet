@@ -1,12 +1,12 @@
 # HackingCheetSheet(under construction...)
 This is a collection of hacking tools and commands for HTB, penetration testing, etc..
 
-port scan tool
+port scan tool<br>
 [nmap]()
 [autorecon]()
 [Zenmap]()
 
-vuls scan tool
+vuln scan tool<br>
 [Nessus]()
 [OpenVAS]()
 
