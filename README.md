@@ -1,4 +1,4 @@
-# HackingCheetSheet
+# HackingCheetSheet(under construction...)
 This is a collection of hacking tools and commands for HTB, penetration testing, etc..
 
 scan tool
@@ -16,7 +16,7 @@ local proxy tool
 []()
 []()
 
-Commnd
+Command
 [nkf]()
   文字コードの変換
   ログ解析の際にURLのデコードなどで使う
