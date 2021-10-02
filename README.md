@@ -6,6 +6,7 @@ This is a collection of hacking tools and commands for HTB, penetration testing,
 [nmap]()
 [autorecon]()
 [Zenmap]()
+[rustscan]()
 
 <h2>vuln scan tool</h2><br>
 [Nessus]()
