@@ -30,4 +30,5 @@ Command
   
  misc
  [hydra]
+ [dirbuster]
  [ghidra]
