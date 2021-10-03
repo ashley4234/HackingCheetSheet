@@ -1,7 +1,7 @@
 # HackingCheetSheet(under construction...)
 This is a collection of hacking tools and commands for HTB, penetration testing, etc..
 
-## [PortScanner]()
+## [PortScanner](https://github.com/ashley4234/HackingCheetSheet/tree/main/Port%20Scanner)
 
 [nmap]()
 [autorecon]()
