@@ -8,7 +8,7 @@ This is a collection of hacking tools and commands for HTB, penetration testing,
 [Zenmap]()
 [rustscan]()
 
-# vuln scan tool</h2><br>
+## vuln scan tool</h2><br>
 [Nessus]()
 [OpenVAS]()
 
@@ -21,6 +21,11 @@ This is a collection of hacking tools and commands for HTB, penetration testing,
 []()
 []()
 []()
+
+## BruteForce
+[hydra]()
+[DirBuster]()
+
 
 Command
 [nkf]()
