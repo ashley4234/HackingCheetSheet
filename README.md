@@ -3,7 +3,7 @@ This is a collection of hacking tools and commands for HTB, penetration testing,
 
 ## [PortScanner](https://github.com/ashley4234/HackingCheetSheet/tree/main/Port%20Scanner)
 
-[nmap]()
+[nmap](https://github.com/ashley4234/HackingCheetSheet/blob/main/Port%20Scanner/nmap.md)
 [autorecon]()
 [Zenmap]()
 [rustscan]()
