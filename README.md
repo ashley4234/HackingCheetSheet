@@ -37,3 +37,6 @@ Command
  [hydra]
  [dirbuster]
  [ghidra]
+ 
+ [XML External Entity (XXE) Injection Payload List]
+
