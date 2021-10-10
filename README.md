@@ -38,5 +38,5 @@ Command
  [dirbuster]
  [ghidra]
  
- [XML External Entity (XXE) Injection Payload List]
+ [XML External Entity (XXE) Injection Payload List](https://github.com/payloadbox/xxe-injection-payload-list)
 
