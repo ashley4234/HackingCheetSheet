@@ -27,6 +27,10 @@ This is a collection of hacking tools and commands for HTB, penetration testing,
 [DirBuster]()
 
 
+## PasswordList
+[Seclists]
+{}
+
 Command
 [nkf]()
   文字コードの変換
@@ -37,6 +41,3 @@ Command
  [hydra]
  [dirbuster]
  [ghidra]
- 
- [XML External Entity (XXE) Injection Payload List](https://github.com/payloadbox/xxe-injection-payload-list)
-
