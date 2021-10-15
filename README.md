@@ -17,7 +17,7 @@ This is a collection of hacking tools and commands for HTB, penetration testing,
 [Fidder]()
 
 [OWASP ZAP]()
-[ b]()
+[]()
 []()
 []()
 []()
@@ -41,3 +41,4 @@ Command
  [hydra]
  [dirbuster]
  [ghidra]
+ [LinPEAS]
