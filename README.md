@@ -25,6 +25,7 @@ This is a collection of hacking tools and commands for HTB, penetration testing,
 ## BruteForce
 [hydra]()
 [DirBuster]()
+[wfuzz]()
 
 
 ## PasswordList
